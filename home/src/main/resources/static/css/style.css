@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+#picture {
+  width: 192px;
+  height: 128px;
+  background-image: url('/images/animal1.jpg');
+  background-size: 192px 128px;
+  background-repeat: no-repeat;
+}
+#picture1 {
+  width: 300px;
+  height: 150px;
+  background-image: url('/images/animal1.jpg');
+  background-size: 300px 150px;
+  background-repeat: no-repeat;
+}
+#picture2 {
+  width: 400px;
+  height: 200px;
+  background-image: url('/images/animal1.jpg');
+  background-size: 400px 200px;
+  background-repeat: no-repeat;
+}
+#picture3 {
+  width: 500px;
+  height: 250px;
+  background-image: url('/images/animal1.jpg');
+  background-size: 500px 250px;
+  background-repeat: no-repeat;
+}

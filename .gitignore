@@ -2,8 +2,9 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,java,eclipse
 
 #application.yaml
-
 application.yaml
+
+
 ### Eclipse ###
 .metadata
 bin/
